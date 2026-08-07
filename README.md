@@ -1,5 +1,4 @@
 # Exp_2_Simple-Spring-Boot-MVC-Application
-
 ## AIM:
 To develop a Simple Spring Boot MVC (Model-View-Controller) Application that uses a Controller to handle HTTP requests, a Model to pass data, and a View (Thymeleaf) to render dynamic HTML pages.
 
@@ -140,5 +139,13 @@ public class HomeController {
 
 ### application.properties:
  server.port=8081
+
+ ### OUTPUT:
+
+<img width="886" height="485" alt="Screenshot 2026-06-04 180544" src="https://github.com/user-attachments/assets/d3b35cc6-dda9-4f79-82fd-d4f9105bf99d" />
+
+
+ ### RESULT:
+ Thus,the simple spring boot application using MVC was implemented and executed successfully.
 
 
